@@ -1,0 +1,5 @@
+{
+  "name": "AI Company Brief Generator",
+  "description": "An AI-powered tool that generates evidence-based, comprehensive company briefs in a structured JSON format using real-time web search for up-to-date information.",
+  "requestFramePermissions": []
+}
